@@ -4,6 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "compiler": "echo \"Erreur: À faire\" && exit 1",
+    "build": "pnpm compiler",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -25,6 +27,7 @@
   },
   "dependencies": {
     "@constl/ipa": "^0.5.7",
+    "compression": "^1.7.4",
     "connect-history-api-fallback": "^2.0.0",
     "express": "^4.18.2",
     "express-force-https": "^1.0.0"
