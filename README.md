@@ -39,15 +39,14 @@ Dans l'interface Constellation, vous pouvez configurer chaque serveur Porte-épi
 ## Déploiement
 Vous pouvez déployer Porte-Épingles sur le serveur de votre choix. Voici, ci-dessous, des instructions pour quelques plateformes commerciales communes.
 
-### Back4App
-
 ### Digital Ocean
+
+### Back4App
 
 ### Google
 
 ### AWS
 
-### Heroku
 
 
 [^1]: Situation entièrement hypothétique.
