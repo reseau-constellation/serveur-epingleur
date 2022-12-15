@@ -1,7 +1,7 @@
 {
   "name": "coussin-epingles",
   "version": "1.0.0",
-  "description": "",
+  "description": "Un serveur pour épingler des données de Constellation",
   "main": "src/index.js",
   "scripts": {
     "compiler": "echo \"Erreur: À faire\" && exit 1",
